@@ -156,4 +156,4 @@ This repository is intended for educational purposes and does not accept further
 - Sarwar, Badrul, et al. "Item-based collaborative filtering recommendation algorithms." Proceedings of the 10th international conference on World Wide Web. 2001. Available online: https://dl.acm.org/doi/abs/10.1145/371920.372071
 
 ## License
-This project is licensed under the [MIT License](Link). You are free to use, modify, and distribute the code for both commercial and non-commercial purposes. See the [LICENSE](Link) file for more details.
+This project is licensed under the [MIT License](https://github.com/MinhNguyenDS/recscratch/blob/Master/LICENSE). You are free to use, modify, and distribute the code for both commercial and non-commercial purposes. See the [LICENSE](https://github.com/MinhNguyenDS/recscratch/blob/Master/LICENSE) file for more details.
